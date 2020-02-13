@@ -30,6 +30,7 @@ Main parts in the robot are (more details in part 2 of the video series).
 
 -Varios proto board.
 
+
 Main parts in the remote are:
 
 -Arduino MEGA2650.
@@ -37,6 +38,7 @@ Main parts in the remote are:
 -Another NRF24L01 RF device.
 
 -some switches, and some 3-axis joysticks I got from eBay.
+
 
 Other mechanical parts (check part 1 for  more details):
 
@@ -62,6 +64,7 @@ Other mechanical parts (check part 1 for  more details):
 
 -Various lengths of M12 and M10 studding plus washers and nuts to suit.
 
+
 Other details:
 
 -I'm running it off 2x 6S 5000 mAH LiPo packs in series
@@ -69,6 +72,7 @@ Other details:
 -Electronics are on a separate 5v regulator running from a separate 11.1v LiPo battery.
 
 -Put 0.1uF decoupling capacitors on everything.
+
 
 Main Library Dependencies are:
 
