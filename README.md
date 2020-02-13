@@ -72,10 +72,14 @@ Other details:
 
 Main Library Dependencies are:
 
-https://github.com/tonton81/IFCT
-https://github.com/jrowberg/i2cdevlib
-https://github.com/sparkfun/SparkFun_Qwiic_Scale_NAU7802_Arduino_Library/
-https://github.com/madcowswe/ODrive/tree/master/Arduino/ODriveArduino
-RF24 library from the Arduino libraries manager
+For Teensy CAN: https://github.com/tonton81/IFCT
+
+For the MPU 6050: https://github.com/jrowberg/i2cdevlib
+
+For the load cells: https://github.com/sparkfun/SparkFun_Qwiic_Scale_NAU7802_Arduino_Library/
+
+For the ODrvies: https://github.com/madcowswe/ODrive/tree/master/Arduino/ODriveArduino
+
+Plus RF24 library from the Arduino libraries manager, other built in libraries
 
 
