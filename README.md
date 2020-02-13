@@ -5,9 +5,13 @@ Code and CAD for my two-wheel balancing robot:  https://www.youtube.com/playlist
 Main parts in the robot are (more details in part 2 of the video series).
 
 -Teensy 3.6 for the main processor.
+
 -MPU6050 on a GY521 style breakout.
+
 -2x Teensy 3.2 to read the load cells in the legs.
+
 -2x 20Kg Loadcells.
+
 -2x Sparkfun Qwiic Scales: https://www.sparkfun.com/products/15242 .
 -'SN65HVD230 CAN BusBoard Network Transceiver Module compatible with PCA82C250' CAN Bus Trancievers.
 -2x ODrive 3.6 56V version.
