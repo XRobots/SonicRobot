@@ -86,4 +86,6 @@ For the ODrvies: https://github.com/madcowswe/ODrive/tree/master/Arduino/ODriveA
 
 Plus RF24 library from the Arduino libraries manager, other built in libraries
 
+Use the IMUzero example included with the MPU6050 to read the IMU calibration setting and put those into your sketch: https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050/examples/IMU_Zero
+
 
