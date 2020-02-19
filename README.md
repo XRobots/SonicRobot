@@ -46,7 +46,7 @@ Other mechanical parts (check part 1 for  more details):
 
 -2x Wheel drive motor pulleys - 14 tooth AT5 aluminium pulleys, 8mm bore to match the motors.
 
--2x 20mm SFU1605 ball screws
+-2x 200mm SFU1605 ball screws
 
 -2x 10mm-10mm CNC couplers
 
