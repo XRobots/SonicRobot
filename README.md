@@ -14,7 +14,7 @@ Main parts in the robot are (more details in part 2 of the video series).
 
 -2x Sparkfun Qwiic Scales: https://www.sparkfun.com/products/15242 .
 
--'SN65HVD230 CAN BusBoard Network Transceiver Module compatible with PCA82C250' CAN Bus Trancievers.
+-'SN65HVD230 CAN BusBoard Network Transceiver Module compatible with PCA82C250' CAN Bus Transceivers.
 
 -2x ODrive 3.6 56V version.
 
@@ -22,7 +22,7 @@ Main parts in the robot are (more details in part 2 of the video series).
 
 -2x Turnigy SK3 6374 149Kv brushless motors.
 
--4x 8192 CPR encoders also availabe from ODrive.
+-4x 8192 CPR encoders also available from ODrive.
 
 -Some switches etc to initialise the Odrives and an Estop which brings the ODrive RST pins to ground.
 
@@ -87,5 +87,6 @@ For the ODrvies: https://github.com/madcowswe/ODrive/tree/master/Arduino/ODriveA
 Plus RF24 library from the Arduino libraries manager, other built in libraries
 
 Use the IMUzero example included with the MPU6050 to read the IMU calibration setting and put those into your sketch: https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050/examples/IMU_Zero
+
 
 
